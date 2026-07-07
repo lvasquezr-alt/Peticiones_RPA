@@ -13,11 +13,39 @@
     "ref_presupuesto": "0026",
     "lin_accion": "17"
   },
-  "Pabellón AULARIO": {
+  "AULARIO": {
     "unidad": "31731",
     "sede": "001",
     "actividad": "OR1000",
     "ref_presupuesto": "0000",
     "lin_accion": "17"
-  }
+  },
+  "BIBL.CIA": {
+    "unidad": "31731",
+    "sede": "001",
+    "actividad": "OR1000",
+    "ref_presupuesto": "0000",
+    "lin_accion": "17"
+  },
+  "EST.GEN.LETRAS": {
+    "unidad": "418",
+    "sede": "001",
+    "actividad": "OR1000",
+    "ref_presupuesto": "0000",
+    "lin_accion": "06"
+  },
+  "EST.GEN.CIENCIAS": {
+    "unidad": "420",
+    "sede": "001",
+    "actividad": "OR1000",
+    "ref_presupuesto": "0000",
+    "lin_accion": "06"
+  },
+  "BIBL.CENTRAL": {
+    "unidad": "2131",
+    "sede": "001",
+    "actividad": "OR1000",
+    "ref_presupuesto": "0000",
+    "lin_accion": "01"
+  }  
 }
