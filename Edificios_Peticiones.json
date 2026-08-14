@@ -1,4 +1,11 @@
 {
+    "AREAS COMUNES": {
+        "Sede": "001",
+        "CodUnd": "31381",
+        "Actividad": "AG0118",
+        "RefPptal": "0026",
+        "LinAcc": "17"
+    },    
     "A.MOVILES A - A.MULTIUSO": {
         "Sede": "001",
         "CodUnd": "31721",
