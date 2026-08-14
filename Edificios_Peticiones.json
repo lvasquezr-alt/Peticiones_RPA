@@ -1,11 +1,4 @@
-{
-    "AREAS COMUNES": {
-        "Sede": "001",
-        "CodUnd": "31381",
-        "Actividad": "AG0118",
-        "RefPptal": "0026",
-        "LinAcc": "17"
-    },    
+{   
     "A.MOVILES A - A.MULTIUSO": {
         "Sede": "001",
         "CodUnd": "31721",
@@ -25,6 +18,13 @@
         "CodUnd": "31721",
         "Actividad": "OR1000",
         "RefPptal": "0000",
+        "LinAcc": "17"
+    },
+    "AREAS COMUNES": {
+        "Sede": "001",
+        "CodUnd": "31381",
+        "Actividad": "AG0118",
+        "RefPptal": "0026",
         "LinAcc": "17"
     },
     "ARCHIVO - ESA": {
